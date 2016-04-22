@@ -32,6 +32,7 @@ let render tmppath finalpath tree backcolor resolution_in_dpi =
  * 3rd : LaTeX input
  * 4th : encoding (Default: UTF-8)
  * 5th : color (Default: rgb 1.0 1.0 1.0)
+ * 6th : resolution in DPI
  *
  * Output one character:
  *  S : Parsing error
