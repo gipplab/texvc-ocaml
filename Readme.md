@@ -14,3 +14,6 @@ For more information on `texvc` and its replacements, please refer to the follow
 <b>Making Math Searchable in Wikipedia.</b> CoRR abs/1304.5475 (2013)](https://dblp.org/rec/journals/corr/abs-1304-5475)
 
 For usage information, refer to the original [README.](README)
+
+_Note (versions):_
+In comparison to the latest version that was used by the Wikimedia Foundation in production [tag:wmf,](https://github.com/ag-gipp/texvc-ocaml/releases/tag/wmf) the master branch includes a pull request that allows changing the resolution of the generated PNG images [tag:dpi.](https://github.com/ag-gipp/texvc-ocaml/releases/tag/dpi)
