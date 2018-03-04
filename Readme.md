@@ -1,4 +1,6 @@
-# texvc (ocaml)
+# texvc (ocaml) [![DOI](https://zenodo.org/badge/56865887.svg)](https://zenodo.org/badge/latestdoi/56865887)
+
+
 
 This repository preserves the `ocaml` code of the `texvc` component that was used to render mathematical formulae in Wikipedia between 2001 and 2016.
 
